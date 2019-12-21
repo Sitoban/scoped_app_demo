@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="DELETE">
+        <contains display_value="x_scope_admin_demo.scope_admin" name="x_scope_admin_demo.scope_admin">961eada635790010f877620472faf2ba</contains>
+        <role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2019-12-21 13:27:47</sys_created_on>
+        <sys_id>b5313daa35790010f877620472faf296</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_scope_admin_demo.scope_admin.admin</sys_name>
+        <sys_package display_value="Scope Admin Demo" source="x_scope_admin_demo">5a0eada635790010f877620472faf290</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scope Admin Demo">5a0eada635790010f877620472faf290</sys_scope>
+        <sys_update_name>sys_user_role_contains_b5313daa35790010f877620472faf296</sys_update_name>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2019-12-21 13:27:47</sys_updated_on>
+    </sys_user_role_contains>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Scope Admin Demo">5a0eada635790010f877620472faf290</application>
+        <file_path/>
+        <instance_id>1294f14ac131001078c4fb359745b863</instance_id>
+        <instance_name>glide_db_dump</instance_name>
+        <name>sys_user_role_contains_b5313daa35790010f877620472faf296</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains"><sys_user_role_contains action="INSERT_OR_UPDATE"><contains display_value="x_scope_admin_demo.scope_admin" name="x_scope_admin_demo.scope_admin">961eada635790010f877620472faf2ba</contains><role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</role><sys_class_name>sys_user_role_contains</sys_class_name><sys_created_by>maint</sys_created_by><sys_created_on>2019-12-21 13:27:47</sys_created_on><sys_id>b5313daa35790010f877620472faf296</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_scope_admin_demo.scope_admin.admin</sys_name><sys_package display_value="Scope Admin Demo" source="x_scope_admin_demo">5a0eada635790010f877620472faf290</sys_package><sys_policy/><sys_scope display_value="Scope Admin Demo">5a0eada635790010f877620472faf290</sys_scope><sys_update_name>sys_user_role_contains_b5313daa35790010f877620472faf296</sys_update_name><sys_updated_by>maint</sys_updated_by><sys_updated_on>2019-12-21 13:27:47</sys_updated_on></sys_user_role_contains></record_update>]]></payload>
+        <payload_hash>-1401710602</payload_hash>
+        <record_name>x_scope_admin_demo.scope_admin.admin</record_name>
+        <reverted_from/>
+        <source>5e0eada635790010f877620472faf292</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2019-12-21 13:27:48</sys_created_on>
+        <sys_id>4e313daa35790010f877620472faf2f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f28a4846e0000001</sys_recorded_at>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2019-12-21 13:27:48</sys_updated_on>
+        <type>Contained Role</type>
+        <update_guid>86313daa8b7900103a311bebe090f1f7</update_guid>
+        <update_guid_history>86313daa8b7900103a311bebe090f1f7:-1401710602</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2019-12-21 13:28:01</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role_contains">sys_user_role_contains</sys_db_object>
+        <sys_id>5859f611557a41c39cf7a09800350ea9</sys_id>
+        <sys_metadata>b5313daa35790010f877620472faf296</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_scope_admin_demo.scope_admin.admin</sys_name>
+        <sys_package display_value="Scope Admin Demo" source="x_scope_admin_demo">5a0eada635790010f877620472faf290</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Scope Admin Demo">5a0eada635790010f877620472faf290</sys_scope>
+        <sys_scope_delete display_value="">2270061e725b4ac2a9a73b3bdd8751f9</sys_scope_delete>
+        <sys_update_name>sys_user_role_contains_b5313daa35790010f877620472faf296</sys_update_name>
+        <sys_update_version display_value="sys_user_role_contains_b5313daa35790010f877620472faf296">4e313daa35790010f877620472faf2f7</sys_update_version>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2019-12-21 13:28:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

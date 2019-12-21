@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="workspace_user" name="workspace_user">3bf8d5b65344130084acddeeff7b122b</contains>
+        <role display_value="x_scope_admin_demo.role_level_two" name="x_scope_admin_demo.role_level_two">17a075aa35790010f877620472faf2d6</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2019-12-21 14:20:44</sys_created_on>
+        <sys_id>6d5d3d2235b90010f877620472faf2e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>workspace_user.x_scope_admin_demo.role_level_two</sys_name>
+        <sys_package display_value="Scope Admin Demo" source="x_scope_admin_demo">5a0eada635790010f877620472faf290</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scope Admin Demo">5a0eada635790010f877620472faf290</sys_scope>
+        <sys_update_name>sys_user_role_contains_6d5d3d2235b90010f877620472faf2e9</sys_update_name>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2019-12-21 14:20:44</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

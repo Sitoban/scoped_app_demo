@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Demo" max_length="40" name="x_scope_admin_demo_demo" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Demo" max_length="40" name="demo" type="string">
+            <choice/>
+        </element>
+    </element>
+</database>
